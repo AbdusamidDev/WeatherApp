@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="date_time">28 June 2022, 13:41 PM</string>
+    <string name="city_country">Ferghana, Uzbekistan</string>
+    <string name="weather_position">Clear Sky</string>
+    <string name="temperature">37°C</string>
+    <string name="min_temp">Min Temp: 05:05 AM</string>
+    <string name="max_temp">Max Temp: 13:00 PM</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_time">06:40 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunset_time">06:40 AM</string>
+    <string name="wind">Wind</string>
+    <string name="wind_time">00:00 AM</string>
+    <string name="pressure">Pressure</string>
+    <string name="pressure_time">06:40 AM</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_time">06:40 AM</string>
+    <string name="owner">Created By</string>
+    <string name="abdusamid">Abdusamid</string>
+    <string name="error">Something went wrong</string>
+</resources>
